@@ -10,8 +10,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NickStrunk | LinkedIn" width="28px" src="https://github.com/nickstrunk/nickstrunk/assets/165805194/96e99d77-1e5b-46ec-8dd7-d5e2b00a8039" />][gmail]
+[<img align="left" alt="NickStrunk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[gmail]: 1nickstrunk@gmail.com
 [linkedin]: https://linkedin.com/in/nicholas-strunk
 
 <!--
