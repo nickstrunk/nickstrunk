@@ -10,8 +10,8 @@
 
 <h2>🖱️ Skills</h2>
 
-  * [Categorizing Phishing Emails](https://elearning.securityblue.team/public/lab-certificate/bc6ebd5b-3ed5-403e-a7ec-6adacc64a859)
-  * [Manual Artifact Extraction](https://elearning.securityblue.team/public/lab-certificate/19f2d945-b77c-4455-adbe-352a74aff3cd) (WHOis Lookup, Powershell)
+  * [Categorizing Phishing Emails](https://github.com/nickstrunk/nickstrunk/assets/165805194/47a9afeb-273e-469e-a126-452ec4bf8c2d)
+  * [Manual Artifact Extraction](https://github.com/nickstrunk/nickstrunk/assets/165805194/524cb2a4-becb-4784-93bb-6b2f05cd2513) (WHOis Lookup, Powershell)
 
 <h2> 🤳 Connect with me:</h2>
 
