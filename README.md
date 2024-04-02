@@ -8,11 +8,17 @@
 
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
 
+<h2>🖱️ Skills</h2>
+
+  * [Categorizing Phishing Emails](https://elearning.securityblue.team/public/lab-certificate/bc6ebd5b-3ed5-403e-a7ec-6adacc64a859)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NickStrunk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/nicholas-strunk
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
