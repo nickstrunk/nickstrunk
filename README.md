@@ -12,6 +12,10 @@
 
   * [Categorizing Phishing Emails](https://github.com/nickstrunk/nickstrunk/assets/165805194/47a9afeb-273e-469e-a126-452ec4bf8c2d)
   * [Manual Artifact Extraction](https://github.com/nickstrunk/nickstrunk/assets/165805194/524cb2a4-becb-4784-93bb-6b2f05cd2513) (WHOis Lookup, Powershell)
+  * [Attachment Analysis](https://github.com/nickstrunk/nickstrunk/assets/165805194/e54f4d65-6d83-4135-bcb3-97c702693109)
+  * [Phishing Response Capstone](https://github.com/nickstrunk/nickstrunk/assets/165805194/fb328ef0-9d46-4f9d-96fe-97b9765191cb)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
