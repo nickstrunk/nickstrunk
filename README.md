@@ -9,6 +9,7 @@
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
   - Security Blue Team: Blue Team Level 1 (In Progress)
 
+<!-- 
 <h2>🖱️ Skills</h2>
 
 <h3> Phishing Analysis</h3>
@@ -28,7 +29,7 @@
 * [Metadata and File Carving](https://github.com/nickstrunk/nickstrunk/assets/165805194/a5138459-3c5d-4c2e-9f9a-631791659686)
 * [Hashing and Integrity](https://github.com/nickstrunk/nickstrunk/assets/165805194/a5138459-3c5d-4c2e-9f9a-631791659686)
 * [Data Acquisition](https://github.com/nickstrunk/nickstrunk/assets/165805194/a5138459-3c5d-4c2e-9f9a-631791659686)
-
+-->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NickStrunk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
