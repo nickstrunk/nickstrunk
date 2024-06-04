@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/nickstrunk/ActiveDirectoryLab)
+  - [Digital Forensics Investigation - Lola La Chata](https://github.com/nickstrunk/LolaLaChata-Halloween23)
 
 <h2>📝 Certifications</h2>
 
