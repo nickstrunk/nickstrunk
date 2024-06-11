@@ -6,6 +6,7 @@
   - [Digital Forensics Investigation - Lola La Chata](https://github.com/nickstrunk/LolaLaChata-Halloween23)
   - [Network Analysis - Web Shell (Easy)](https://github.com/nickstrunk/Network-Analysis-Web-Shell-Easy-)
   - [Phishing Analysis - Phishy v1](https://github.com/nickstrunk/Phishyv1)
+  - [SOCAlpha1](https://github.com/nickstrunk/SOCAlpha1)
 
 <h2>📝 Certifications</h2>
 
