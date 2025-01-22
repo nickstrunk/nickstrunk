@@ -10,8 +10,8 @@
 
 <h2>🚶 Playbook Walkthroughs </h2>
 <h3>LetsDefend</h3>
-  - [SOC101 - Phishing Mail Detected EventID 34]
-  
+
+ -  [SOC101 - Phishing Mail Detected, EventID: 34](https://nicholss.notion.site/Event-ID-34-180d1d0aa35f80858445d8a761ab0c69?pvs=74)
 
 
 <h2>📝 Certifications </h2>
