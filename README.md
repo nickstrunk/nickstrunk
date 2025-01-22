@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicholas! <br/><a href="https://github.com/nickstrunk">Student</a>, <a href="https://www.linkedin.com/in/nicholas-strunk">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects / Investigations:</h2>
+<h2>👨‍💻 Cybersecurity Projects / Investigations: </h2>
 
   - [Active Directory Home Lab](https://github.com/nickstrunk/ActiveDirectoryLab)
   - [Digital Forensics Investigation - Lola La Chata](https://github.com/nickstrunk/LolaLaChata-Halloween23)
@@ -8,7 +8,13 @@
   - [Phishing Analysis - Phishy v1](https://github.com/nickstrunk/Phishyv1)
   - [SOCAlpha1](https://github.com/nickstrunk/SOCAlpha1)
 
-<h2>📝 Certifications</h2>
+<h2>🚶 Playbook Walkthroughs </h2>
+<h3>LetsDefend</h3>
+  - [SOC101 - Phishing Mail Detected EventID 34]
+  
+
+
+<h2>📝 Certifications </h2>
 
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
