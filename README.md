@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicholas! <br/><a href="https://github.com/nickstrunk">Student</a>, <a href="https://www.linkedin.com/in/nicholas-strunk">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects / Investigations:</h2>
 
   - [Active Directory Home Lab](https://github.com/nickstrunk/ActiveDirectoryLab)
   - [Digital Forensics Investigation - Lola La Chata](https://github.com/nickstrunk/LolaLaChata-Halloween23)
