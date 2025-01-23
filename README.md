@@ -41,7 +41,7 @@
 -->
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NickStrunk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NickStrunk | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/ce496693-19aa-45ac-bdb4-3914491f60cf" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/nicholas-strunk
 
