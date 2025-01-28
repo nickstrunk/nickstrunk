@@ -12,6 +12,7 @@
 <h3>LetsDefend</h3>
 
  -  [SOC101 - Phishing Mail Detected, EventID: 34](https://nickstr.notion.site/SOC101-Phishing-Mail-Detected-Event-ID-34-180d1d0aa35f80858445d8a761ab0c69?pvs=4)
+ -  [SOC146 - Phishing Mail Detected - Excel 4.0 Macros, EventID: 93](https://nickstr.notion.site/SOC146-Phishing-Mail-Detected-Excel-4-0-Macros-Event-ID-93-188d1d0aa35f802b974ac704173b04c4?pvs=4)
 
 <h2>📝 Certifications </h2>
 
