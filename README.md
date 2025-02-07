@@ -8,7 +8,7 @@
   - [Phishing Analysis - Phishy v1](https://github.com/nickstrunk/Phishyv1)
   - [SOCAlpha1](https://github.com/nickstrunk/SOCAlpha1)
 
-<h2>🚶 Playbook Walkthroughs </h2>
+<h2>🚶 SOC Playbook Walkthroughs </h2>
 <h3>LetsDefend</h3>
 
  -  [SOC101 - Phishing Mail Detected, EventID: 34](https://nickstr.notion.site/SOC101-Phishing-Mail-Detected-Event-ID-34-180d1d0aa35f80858445d8a761ab0c69?pvs=4)
