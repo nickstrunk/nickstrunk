@@ -12,6 +12,7 @@
 <h3>LetsDefend</h3>
 
  -  [SOC101 - Phishing Mail Detected, EventID: 34](https://nickstr.notion.site/SOC101-Phishing-Mail-Detected-Event-ID-34-180d1d0aa35f80858445d8a761ab0c69?pvs=4)
+ -  [SOC140 - Phishing Mail Detected - Suspicious Task Scheduler, EventID: 82](https://nickstr.notion.site/SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler-EventID-82-1a5d1d0aa35f8045b14cc61f9d6eeae3)
  -  [SOC141 - Phishing URL Detected, EventID: 86](https://nickstr.notion.site/SOC141-Phishing-URL-Detected-Event-ID-86-193d1d0aa35f8053898dc3d6aa65d8c7)
  -  [SOC146 - Phishing Mail Detected - Excel 4.0 Macros, EventID: 93](https://nickstr.notion.site/SOC146-Phishing-Mail-Detected-Excel-4-0-Macros-Event-ID-93-188d1d0aa35f802b974ac704173b04c4?pvs=4)
 
