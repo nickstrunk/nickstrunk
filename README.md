@@ -20,7 +20,8 @@
 
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
-  - [Qualys Vulnerability Management Foundation]
+  - Qualys Vulnerability Management Foundation
+  - [Telstra - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_xuB8D3NmC2uBrfydv_1740719091298_completion_certificate.pdf)
 
 <!-- 
 <h2>🖱️ Skills</h2>
