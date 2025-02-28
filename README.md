@@ -20,6 +20,7 @@
 
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
+  - [Qualys Vulnerability Management Foundation]
 
 <!-- 
 <h2>🖱️ Skills</h2>
