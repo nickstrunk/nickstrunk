@@ -22,6 +22,7 @@
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
   - [Qualys Vulnerability Management Foundation](https://github.com/nickstrunk/Images/blob/main/Vulnerability%20Management%20-%20Foundation%20Certificate.pdf)
   - [Telstra - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_xuB8D3NmC2uBrfydv_1740719091298_completion_certificate.pdf)
+  - [Mastercard - Cybersecurity Job Simulation]
 
 <!-- 
 <h2>🖱️ Skills</h2>
