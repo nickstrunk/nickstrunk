@@ -20,11 +20,12 @@
 
   - [CompTIA Security+](https://www.credly.com/badges/0de55de2-b87f-4383-9581-6d6448626ed2/public_url)
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
+  - [SOC Analyst Learning Path on LetsDefend](https://app.letsdefend.io/certificate/show/7e97a6a0-aa28-4157-909a-7107aed89ca6)
   - [Qualys Vulnerability Management Foundation](https://github.com/nickstrunk/Images/blob/main/Vulnerability%20Management%20-%20Foundation%20Certificate.pdf)
   - [Telstra - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_xuB8D3NmC2uBrfydv_1740719091298_completion_certificate.pdf)
   - [Mastercard - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_xuB8D3NmC2uBrfydv_1740779617131_completion_certificate.pdf)
   - [AIG - Shields Up: Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_xuB8D3NmC2uBrfydv_1741792960465_completion_certificate.pdf)
-  - [SOC Analyst Learning Path](https://app.letsdefend.io/certificate/show/7e97a6a0-aa28-4157-909a-7107aed89ca6)
+  
 
 <!-- 
 <h2>🖱️ Skills</h2>
