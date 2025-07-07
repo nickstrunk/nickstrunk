@@ -23,6 +23,8 @@
   - [Qualys Vulnerability Management Foundation](https://github.com/nickstrunk/Images/blob/main/Vulnerability%20Management%20-%20Foundation%20Certificate.pdf)
   - [Telstra - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_xuB8D3NmC2uBrfydv_1740719091298_completion_certificate.pdf)
   - [Mastercard - Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_xuB8D3NmC2uBrfydv_1740779617131_completion_certificate.pdf)
+  - [AIG - Shields Up: Cybersecurity Job Simulation on Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_xuB8D3NmC2uBrfydv_1741792960465_completion_certificate.pdf)
+  - [SOC Analyst Learning Path](https://app.letsdefend.io/certificate/show/7e97a6a0-aa28-4157-909a-7107aed89ca6)
 
 <!-- 
 <h2>🖱️ Skills</h2>
