@@ -22,6 +22,7 @@
   - [Security Blue Team: Blue Team Level 1](https://www.credly.com/badges/17bdf025-f79e-4294-9d3d-b05e2a2a4256/public_url)
   - [SOC Analyst Learning Path on LetsDefend](https://app.letsdefend.io/certificate/show/7e97a6a0-aa28-4157-909a-7107aed89ca6)
   - [Qualys Vulnerability Management Foundation](https://github.com/nickstrunk/Images/blob/main/Vulnerability%20Management%20-%20Foundation%20Certificate.pdf)
+  - [SimplyCyber Academy - GRC Analyst Master Class](https://github.com/user-attachments/files/23780236/grc-analyst-master-class.certificate.pdf)
     
 <br>
 
